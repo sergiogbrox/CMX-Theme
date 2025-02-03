@@ -21,3 +21,22 @@ Your creativity is always welcome and plays a key role in making CMX-Theme even 
 
 ## Acknowledgment:
 *The theme is being developed based on the* **CrossmixRAW** *theme, created by our friend u/XCmixer on Reddit, to whom we extend our thanks for the effort and creativity. You can check out the original work* [here](https://www.reddit.com/r/trimui/comments/1i8tnhd/simplified_theme/).
+
+
+# CMX-Theme – Installation Guide
+
+## 📥 How to Install
+
+1. **Extract the folder:**  
+   - Extract the **"Themes"** folder to the root directory of **Crossmix OS**.
+
+2. **Refresh System Tools Menu:**  
+   - Open the **System Tools** application.  
+   - Go to **USER INTERFACE** → **Refresh System Tools Menu**.
+
+3. **Apply the Theme:**  
+   - Return to the **System Tools** main menu.  
+   - Navigate to **THEME** → **ADVANCED SETTINGS** → **THEMES**.  
+   - Select **CMX-Theme**.
+
+🎨 **Enjoy the new look of your Trimui Smart Pro!**  
